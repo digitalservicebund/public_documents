@@ -5,7 +5,7 @@ Die Dokumente in diesem ersten Repository Ordner wurden auf Grund einer Anfrage 
 
 Aufgrund des erkennbaren öffentlichen Interesses rund um Teilveröffentlichungen der IFG-Antragstellerin wird das verfügbare Material hier digital zur allgemeinen Information und Transparenz veröffentlicht.
 
-Ein Inhaltsverzeichnis der Dokumente kann in Dokument “00_table of contents” eingesehen werden. 
+Ein Inhaltsverzeichnis der Dokumente kann in Dokument "00_table of contents" eingesehen werden. 
 
  # Documents and communication regarding the acquisition of the 4Germany UG
 
@@ -13,4 +13,4 @@ The documents in this first repository folder were compiled based on a request t
 
 Due to the recognizable public interest around partial publications of the IFG applicant, the available material is published here digitally for general information and transparency.
 
-A table of contents of the documents can be viewed in the document "00_table of contents". 
+A table of contents of the documents can be found in the document "00_table of contents". 
