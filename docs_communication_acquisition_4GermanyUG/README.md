@@ -7,6 +7,8 @@ Aufgrund des erkennbaren öffentlichen Interesses rund um Teilveröffentlichunge
 
 Ein Inhaltsverzeichnis der Dokumente kann in Dokument "00_table of contents" eingesehen werden. 
 
+Auf Grund von Problemen mit der Teilschwärzung mussten wir die Dokumente vorübergehend aus dem Repository löschen. Wir bemühen uns um eine zeitnahe, sichere Lösung und stellen die Dokumente dann wieder zur Verfügung.
+
  # Documents and communication regarding the acquisition of the 4Germany UG
 
 The documents in this first repository folder were compiled based on a request to the Federal Chancellery on September 15th, 2020 under the Freedom of Information Act. A request was made to release all accrued documents and communications relating to the acquisition of 4Germany UG by the Federal Republic of Germany, as well as all contracts and communication between 4Germany UG and the previous owners and the federal chancellery. Company and business secrets were redacted, as were personal data pursuant to Section 5 IFG, where necessary.
@@ -14,3 +16,5 @@ The documents in this first repository folder were compiled based on a request t
 Due to the recognizable public interest around partial publications of the IFG applicant, the available material is published here digitally for general information and transparency.
 
 A table of contents of the documents can be found in the document "00_table of contents". 
+
+Due to issues with the blanking out we had to temorarily remove the files. We will shortly upload the files again in a save manner.
